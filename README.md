@@ -7,13 +7,15 @@ Utlilizes Python and its "Markitdown" library for the main app and file type con
 
 Installation/Set-Up:
 1. Download the following files:
+   ```
    a. app.py
    b. converter.py
    c. styles.css
    d. script.js
    e. index.html
    f. requirements.txt
-2. Create this file structure -
+   ```
+3. Create this file structure -
       ```
       main_directory/
       ├── app.py
