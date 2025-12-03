@@ -1,4 +1,4 @@
-# file_conversion_web_app
+# File-Conversion-Web-App
 A simple web app that coverts PDF files to Markdown files. (more formats coming soon!)
 
 I created this as a quick add-on tool that I needed for another project.
