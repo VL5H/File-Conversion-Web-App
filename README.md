@@ -3,7 +3,7 @@ A simple web app that coverts PDF files to Markdown files. (more formats coming 
 
 I created this as a quick add-on tool that I needed for another project.
 
-Utlilizes Python and its "Markitdown" library for the main app and file type conversion logic. The flask library as well as HTML, CSS, and JavaScript were used to create the actual web app UI.
+Utilizes Python and its "Markitdown" library for the main app and file type conversion logic. The flask library as well as HTML, CSS, and JavaScript were used to create the actual web app UI.
 
 Installation/Set-Up:
 1. Download the following files:
@@ -34,9 +34,9 @@ Installation/Set-Up:
    *notes: The outputs and uploads directories should be auto-created upon first run of the web app.
 
 Running/Usage Instructions:
-1. Create/activate you virtual environment (you will need Python 3.8 or higher) and run the command: ```pip install -r requirements.txt```
+1. Create/activate your virtual environment (you will need Python 3.8 or higher) and run the command: ```pip install -r requirements.txt```
 2. Open the "app.py" file and run it.
-3. A link to the Flask development server should appear in you terminal, paste this link into your browser. (Ex.: Running on http://000.0.0.0:0000)
+3. A link to the Flask development server should appear in your terminal, paste this link into your browser. (Ex.: Running on http://000.0.0.0:0000)
 4. Click on the "upload" button to upload a pdf file. (only one file at a time)
-5. Press the "convert" button to convert you pdf file to a markdown file. A text box will appear directly below the "convert" button with a preview of your file in the markdown format. You can make any neccessary edits here.
+5. Press the "convert" button to convert your pdf file to a markdown file. A text box will appear directly below the "convert" button with a preview of your file in the markdown format. You can make any necessary edits here.
 6. Scroll down and press the "download" button to download your final markdown file.
